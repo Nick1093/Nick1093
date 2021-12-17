@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nick!
 - 👀 I’m interested in learning and building
 - 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on software prjects
+- 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me: nicholasalexanderlam@gmail.com || 647-528-2860
